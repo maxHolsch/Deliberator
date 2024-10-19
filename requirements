@@ -1,0 +1,10 @@
+Flask
+Flask_SQLAlchemy
+Flask_Login
+Flask_WTF
+WTForms
+Werkzeug
+psycopg2-binary  # If using PostgreSQL
+Flask_Migrate
+python-dotenv
+openai
